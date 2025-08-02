@@ -15,7 +15,7 @@ This userscript lets you **bulk remove LinkedIn connections** by pasting a list 
 
 ### 🔧 How to Use
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Find and enable "LinkedIn Bulk Connection Remover" in Tampermonkey
+2. Find and enable "LinkedIn Bulk Connection Remover" on [GreasyFork](https://greasyfork.org/)
 3. Go to: [LinkedIn Connections Page](https://www.linkedin.com/mynetwork/invite-connect/connections/)
 4. Click the red “🗑️ Remove Connections” button (top right)
 5. Paste a list of names like this:
